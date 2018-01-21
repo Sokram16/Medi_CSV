@@ -1,0 +1,9 @@
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\bin\Debug\LeerXml.exe.config
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\bin\Debug\LeerXml.exe
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\bin\Debug\LeerXml.pdb
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\obj\Debug\LeerXml.csprojResolveAssemblyReference.cache
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\obj\Debug\LeerXml.Form1.resources
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\obj\Debug\LeerXml.Properties.Resources.resources
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\obj\Debug\LeerXml.csproj.GenerateResource.Cache
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\obj\Debug\LeerXml.exe
+C:\Users\SocramPC\Documents\ProyectosGit\PruebaGit\LeerXml\LeerXml\obj\Debug\LeerXml.pdb
